@@ -316,7 +316,7 @@ export default function HomePage() {
           <div>
             <p className="eyebrow">Contact</p>
             <a href="mailto:contact@neosfere.studio" className="footer-mail">
-              contact@neosfere.studio
+              contact@neosfere.fr
             </a>
             <p className="footer-meta">Paris / Remote</p>
           </div>
